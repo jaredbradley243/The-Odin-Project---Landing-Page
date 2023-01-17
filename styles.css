@@ -297,10 +297,6 @@ nav{
         margin: 15px auto 0px auto;
     }
 
-    .info .boxes{
-        gap: 10px
-    }
-
     .info .box p{
         white-space: inherit;
     }
