@@ -133,7 +133,8 @@ nav{
 }
 
 .info{
-    min-height: var(--sectionheight);
+    /* min-height: var(--sectionheight); */
+    height: var(--sectionheight);
 }
 
 .info .container{
@@ -142,6 +143,7 @@ nav{
     align-items: center;
     gap: 50px;
     min-height: 100%;
+    justify-content: center;
 }
 
 .info .info-header{
