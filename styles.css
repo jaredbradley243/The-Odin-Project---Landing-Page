@@ -194,7 +194,7 @@ nav{
     align-items: flex-end;
     justify-content: center;
     min-height: 100%;
-    /* max-width: 900px; */
+    max-width: 900px;
 }
 
 .quote h3{
@@ -301,12 +301,17 @@ nav{
         text-align: center;
     }
 
+    .hero .hero-text-container{
+        margin-bottom: 60px;
+    }
+
     .hero .container img{
         padding: 62.5px 62.5px 62.5px 62.5px;
+        display: none;
     }
 
     .hero .hero-button{
-        margin: 15px auto 0px auto;
+        margin: 35px auto 0px auto;
     }
 
     .hero h2{
