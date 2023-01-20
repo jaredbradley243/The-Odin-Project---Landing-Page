@@ -53,6 +53,7 @@ I created a responsive webpage with a modern layout using CSS Flexbox.
 ### Customizations
 * I added a responsive footer with a link to my Github page, with careful attention to protect against tabnabbing.
 * I imported <i>Noto Color Emoji</i> <i><b>Google Font</b></i> to use more attractive emojis.
+* I used <b><i>ChatGPT</b></i> to write all of the sales copy.
 * I based the website on an existing company, KSTech, founded by a good friend of mine. See https://www.kstech.com/ for all of your IT needs! 
 
 ### What could be improved
